@@ -1,0 +1,64 @@
+
+
+body {
+	background-color: seagreen;
+	color: whitesmoke;
+	font-family: Roboto Condensed;
+}
+
+h1 {
+	justify-content: center;
+	text-align: center;
+	padding: 10px;
+}
+
+.container {
+	background-color: rgba(23,175,134,0.4);
+}
+
+
+img {
+	width: 60%;
+}
+
+img:hover {
+	animation: bounce;
+	animation-duration: 2s;
+}
+
+thead {
+	text-align: center;
+}
+
+
+td {
+	vertical-align: middle;
+}
+
+.pics {
+	width: 25%;
+}
+
+.inform {
+	width:45%;
+}
+
+.traits {
+	width: 30%;
+}
+
+.footer {
+	background-color: white;
+	color: seagreen;
+	text-align: center;
+	padding: 20px;
+}
+
+.footer:hover {
+	background-color: darkgrey;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
